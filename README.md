@@ -1,4 +1,19 @@
-# Jutsu Hand Signs
+<p align="center">
+  <img src="./assets/banner.svg" alt="Jutsu Hand Signs by Micro Club" width="1000" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MicroClub-USTHB/JutsuHandSigns/stargazers"><img src="https://img.shields.io/github/stars/MicroClub-USTHB/JutsuHandSigns?style=flat&labelColor=0b0b10" alt="stars" /></a>
+  <a href="https://github.com/MicroClub-USTHB/JutsuHandSigns/issues"><img src="https://img.shields.io/github/issues/MicroClub-USTHB/JutsuHandSigns?labelColor=0b0b10" alt="issues" /></a>
+  <a href="https://github.com/MicroClub-USTHB/JutsuHandSigns/commits/main"><img src="https://img.shields.io/github/last-commit/MicroClub-USTHB/JutsuHandSigns?labelColor=0b0b10" alt="last commit" /></a>
+  <a href="https://github.com/MicroClub-USTHB"><img src="https://img.shields.io/badge/by-Micro%20Club%20USTHB-0b0b10?style=flat" alt="Micro Club USTHB" /></a>
+</p>
+
+<p align="center"><a href="#run">Run</a> · <a href="#controls">Controls</a> · <a href="#signs">Signs</a> · <a href="#pvp-duel-1v1-web-app">1v1 Duel</a> · <a href="#testing">Testing</a></p>
+
+---
+
+## Jutsu Hand Signs
 
 A Naruto-inspired webcam game: choose your ninja and difficulty, then perform
 real hand-sign sequences tracked with [MediaPipe](https://developers.google.com/mediapipe).
