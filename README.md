@@ -9,7 +9,7 @@
   <a href="https://github.com/MicroClub-USTHB"><img src="https://img.shields.io/badge/by-Micro%20Club%20USTHB-0b0b10?style=flat" alt="Micro Club USTHB" /></a>
 </p>
 
-<p align="center"><a href="#run">Run</a> · <a href="#controls">Controls</a> · <a href="#signs">Signs</a> · <a href="#pvp-duel-1v1-web-app">1v1 Duel</a> · <a href="#testing">Testing</a></p>
+<p align="center"><a href="#screenshots">Screenshots</a> · <a href="#run">Run</a> · <a href="#controls">Controls</a> · <a href="#signs">Signs</a> · <a href="#pvp-duel-1v1-web-app">1v1 Duel</a> · <a href="#testing">Testing</a></p>
 
 ---
 
@@ -20,6 +20,27 @@ real hand-sign sequences tracked with [MediaPipe](https://developers.google.com/
 Complete the sequence and your jutsu erupts on your hand — a swirling
 **Rasengan** or crackling **Chidori** — drawn with a pseudo-3D additive
 particle engine in OpenCV.
+
+## Screenshots
+
+<table>
+<tr>
+<td width="50%"><img src="./assets/screenshots/jutsu-duel-chidori.jpg" alt="1v1 duel: Chidori lands on the opponent" /></td>
+<td width="50%"><img src="./assets/screenshots/jutsu-rasengan-intro.jpg" alt="Rasengan intro screen" /></td>
+</tr>
+<tr>
+<td align="center"><sub>1v1 duel, 3D chakra auras and a Chidori hit (captured in the dev FX lab with stand-in character pictures instead of a live camera)</sub></td>
+<td align="center"><sub>The web app's Rasengan intro</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="./assets/screenshots/jutsu-opencv-rasengan.png" alt="Rasengan rendered by the OpenCV effect engine" /></td>
+<td width="50%"><img src="./assets/screenshots/jutsu-opencv-chidori.png" alt="Chidori rendered by the OpenCV effect engine" /></td>
+</tr>
+<tr>
+<td align="center"><sub>Rasengan, drawn by <code>src/effects/rasengan.py</code> (shown on a plain background, in the game it sits on your hand)</sub></td>
+<td align="center"><sub>Chidori, drawn by <code>src/effects/chidori.py</code></sub></td>
+</tr>
+</table>
 
 ## Run
 
